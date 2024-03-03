@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Tóth Bence",
+      "email": "b.toth@mongo.com",
+      "age": 30
+    },
+    {
+      "name": "Varga Dániel",
+      "email": "d.varga@mongo.com",
+      "age": 24
+    },
+    {
+      "name": "Szabó István",
+      "email": "i.szabo@mongo.com",
+      "age": 56
+    },
+    {
+      "name": "Szabó Levente",
+      "email": "l.szabo@mongo.com",
+      "age": 35
+    },
+    {
+      "name": "Horváth László",
+      "email": "l.horvath@mongo.com",
+      "age": 42
+    },
+    {
+      "name": "Németh Ancsa",
+      "email": "a.nemeth@mongo.com",
+      "age": 45
+    },
+    {
+      "name": "Szántó Milán",
+      "email": "m.szanto@mongo.com",
+      "age": 25
+    },
+    {
+      "name": "Bíró Benedek",
+      "email": "b.benedek@mongo.com",
+      "age": 39
+    },
+    {
+      "name": "Balázs Zoltán",
+      "email": "z.balazs@mongo.com",
+      "age": 23
+    },
+    {
+      "name": "Nagy Tímea",
+      "email": "t.nagy@mongo.com",
+      "age": 43
+    },
+    {
+      "name": "Nagy Árpi",
+      "email": "a.nagy@mongo.com",
+      "age": 42
+    }
+]
+  
